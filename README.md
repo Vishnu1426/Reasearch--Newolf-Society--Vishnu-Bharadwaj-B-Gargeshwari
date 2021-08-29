@@ -1,4 +1,4 @@
-# Reasearch- Newolf Society
+# Research- Newolf Society
  Research papers
  
 1. Programmable FPGA- based Memory Controller
